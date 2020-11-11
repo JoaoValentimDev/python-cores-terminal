@@ -154,6 +154,7 @@ Ele rece um texto, cor, estilo e fundo
 # Fotos com alguns exemplos & respectivos comandos
 
 ```python
+year = 2020
 # com corpo colorido
 c_print(f"Hello World {year}!!!", "yellow", "bold", "blue")
 c_print(f"Hello World {year}!!!", "blue", "bold", "green")
