@@ -165,4 +165,4 @@ c_print(f"Hello World {year}!!!", "yellow", "underline")
 c_print(f"Hello World {year}!!!", "white", "negative")
 ```
 
-<img src="https://lh5.googleusercontent.com/f8GMIo6wCVlfZTCPO_bHohfX6Vx47EU-amBknOEpnq7u6tNOcq6a5H0NpGnGlTUPna7lGyHPRmR4Lq6WzuSq=w952-h704-rw" />
+<img src="https://lh3.googleusercontent.com/JaPlKL_YGz7uvoxiKHJqmLHk42vYkwRDBr_mrdZpFwrre8GtbN6QD3ueVjpuz3gjrx8u4dEB4mCtpUEecQPofC892ycLIgwvZsAx04HSf4jGdSbeEXWyuSr3M2oxrYPRsTU06GP-7C7Is720gAO6QwvIdYWvnNGssSkx2GdEk3_NyFN1upppHpeLFqe7cXto6UbaXAdzAr1g41teu9G6FqfUOsYmpRQmIrII-8psyOLciyfFyEtkiawJ4Ry0GBfD46txQwwWzGhBU45y9ZbbpD_SuaL-AedO7Vpc7VSxKXTUcX4HQ-uP28W-duTkYsnXI3SiUrELXPkGlAizd5hs0ttvDDXMSdp-T0GeoVisSOq6dv_edyy-NyFfLN5nZsh8r3beRIGnL-tPz-1UBS5eo89HlJjygvX_7ms7wVneu7zOZDFdHQm88q8Pzh9WJKK8YSDu4YHLldB5DqM8IVIZU28K0AQzt432F6BgTnhlmNugcK6_-g8E-2D-vSaXiaks6Fo9n2_zyzGVrWPAbBjg0rBhDL8ta4ad3qpjW6v8ZfCpPOSXH6ZZsdJaTnfdP3on0uMsdh38QN5NC_7B9C3CbVnhZLs0-WNtikWzjCYBHIwqNwBmz4e1EeXiyh8tFZNHuVNZpq5hLntouBAGEYPApk8c2uLewSOvZJZ86d60ipKp_KhqWhqrOG3HAuWP=w825-h219-no?authuser=0" />
