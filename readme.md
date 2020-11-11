@@ -79,13 +79,11 @@ Para o fundo basta seguir a esta lista:
 Exemplo de print com cor:
  
 ```python
-print('\033[0;30;0m Hello World!!! \033[m')
+print('\033[34m Hello shell \033[m')
 ```
  Neste exemplo tiramos os estilos e o fundo, dando uma cor somente para o texto, ou seja:
  
- - 0 : sem estilo;
- - 30 : texto branco;
- - 0 : sem cor de fundo.
+ => 34 : texto azul
  
 # Meu arquivo "main.py"
 
